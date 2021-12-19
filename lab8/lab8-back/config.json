@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb://localhost/node-mongo-signup-verification-api",
+    "secret": "23fc43ee-96ea-4fba-98ea-4e62bbf5e1012",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "kenna.carter13@ethereal.email",
+            "pass": "z4YvgE1pr7t93e8mxj"
+        }
+    }
+}
